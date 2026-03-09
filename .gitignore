@@ -1,0 +1,21 @@
+# R session files
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+
+# RStudio project files
+*.Rproj
+.Rproj.user/
+
+# Generated output
+figures/
+data/penguins_cleaned.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.swp
